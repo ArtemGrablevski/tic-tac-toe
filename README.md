@@ -1,7 +1,7 @@
 # Tic Tac Toe
 A simple tic-tac-toe game created with the help of tkinter, Python. <br>
 ***
-## Launch the application::
+## Launch the application:
 ```
 python runner.py
 ```
